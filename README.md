@@ -1,6 +1,6 @@
 # node-soundtouch
 
-Node module to interact with Bose Soundtouch speakers.
+Node module to interact with Bose SoundTouch speakers.
 
 ## Using this module
 
